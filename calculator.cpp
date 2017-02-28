@@ -1,6 +1,6 @@
 /**
 * Hello reader! This code has been made by three students:
-* Johhni Nielsen, Hugo Karl Markoff and Jevgenijs Galaktionovs.
+* Johhni Nielsen, Hugo Karl Markoff, Nikolaj Michelsen Kristiansen and Jevgenijs Galaktionovs.
 * Descriptive comments are placed to be ALWAYS on top of the described comment.
 * Repeating code actions are left uncommented,
 * such as similar functions and 'switch' cases after 1 .
