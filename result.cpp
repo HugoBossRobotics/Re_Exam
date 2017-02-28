@@ -1,5 +1,5 @@
 /**
-* Hello reader! This code has been made by three students:
+* Hello reader! This code has been made by four students:
 * Johhni Nielsen, Hugo Karl Markoff and Jevgenijs Galaktionovs.
 * Descriptive comments are placed to be ALWAYS on top of the described comment.
 * Code lines described in "calculator.cpp" are not commented in this code.
